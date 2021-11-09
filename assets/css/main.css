@@ -1,0 +1,58 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+}
+
+a {
+	color:red;
+}
+
+img{
+	width: 100%;
+}
+
+.header{
+	text-align: center;
+	margin: 100px 0;
+}
+.header h1{
+	font-size: 50px;
+	font-family:fantasy;
+}
+.main{
+	width: 90%;
+	min-height: 400px;
+	margin: 0 auto;
+	/* border: 1px solid #aaa; */
+}
+
+
+.main-list li{
+	display: inline-block;
+	width: 18.5%;
+	
+	
+	text-align: center;
+}
+
+.main-list li img{
+	width: 80%;
+	height: 30vh;
+	border: 5px solid #d8ba6f;
+	border-radius: 100%;
+}
+
+.main p{
+	font-size: 22px;
+	margin-top: 50px;
+	font-family:fantasy
+}
+
+.youtube-div{
+	width: 300px;
+	margin: 30px auto;
+}
+
+.main a{
+	color: #d8ba6f;
+}
